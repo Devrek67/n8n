@@ -1,14 +1,7 @@
 {
-  "name": "dependency-shield-test-lab",
+  "name": "n8n",
   "version": "1.0.0",
-  "description": "Dependency Shield v2 Otonom Yama Test Projesi",
-  "main": "index.js",
   "dependencies": {
-    "axios": "0.21.1",
-    "lodash": "4.17.15",
-    "minimist": "1.2.5"
-  },
-  "devDependencies": {
-    "semver": "7.3.5"
+    "semver": "7"
   }
 }
