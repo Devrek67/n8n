@@ -2,6 +2,6 @@
   "name": "n8n",
   "version": "1.0.0",
   "dependencies": {
-    "axios": "latest-secure"
+    "axios": "0."
   }
 }
