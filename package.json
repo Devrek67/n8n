@@ -2,6 +2,6 @@
   "name": "n8n",
   "version": "1.0.0",
   "dependencies": {
-    "semver": "7"
+    "semver": "7.5.2"
   }
 }
