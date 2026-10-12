@@ -4,7 +4,7 @@
   "description": "Dependency Shield v2 Otonom Yama Test Projesi",
   "main": "index.js",
   "dependencies": {
-    "axios": "0.21.1",
+    "axios": "1.15.2",
     "lodash": "4.17.15",
     "minimist": "1.2.6"
   },
